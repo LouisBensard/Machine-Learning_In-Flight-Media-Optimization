@@ -5,7 +5,7 @@ This repository hosts our project on optimizing in-flight media content, aimed a
 
 Read our detailed paper outlining the research and results here: [In-Flight Media Content Optimization Paper](/Final_paper.pdf)
 
-[<img src="/images/Page1_Paper.pdf" alt="Page 1 Paper" width="30%">](#)
+[<img src="/images/Page1_Paper.png" alt="Page 1 Paper" width="30%">](#)
 
 Go through the presentation results here: [In-Flight Media Content Optimization Slides](/Final_slides.pptx)
 
