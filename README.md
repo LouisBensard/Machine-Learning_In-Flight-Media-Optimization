@@ -3,6 +3,12 @@
 ## Overview 🌎 
 This repository hosts our project on optimizing in-flight media content, aimed at enhancing passenger satisfaction while minimizing content costs. Developed in collaboration with Panasonic Aviation Corporation and Black Swan Data, this project utilizes advanced statistical models to predict and optimize media selection on flights.
 
+Read our detailed paper outlining the research and results here: [In-Flight Media Content Optimization Paper](/Final_paper.pdf)
+
+[<img src="/images/Page1_Paper.pdf" alt="Page 1 Paper" width="30%">](#)
+
+Go through the presentation results here: [In-Flight Media Content Optimization Slides](/Final_slides.pptx)
+
 ## Table of Contents 📑
 - [Project Introduction](#project-introduction-)
 - [Data Collection and Processing](#data-collection-and-processing-)
@@ -72,7 +78,7 @@ The analysis led to the development of a media recommendation system that accura
 - Nuno Malta
 
 ## Contact 📬
-For more information on this project, please reach out at [Your Email](mailto:louisbenss@gmail.com).
+For more information on this project, please reach out at [louisbenss@gmail.com](mailto:louisbenss@gmail.com).
 
 Project Link: [https://github.com/LouisBensard/ML-Project01_InFlight-Media-Optimization.git](\https://github.com/LouisBensard/ML-Project01_InFlight-Media-Optimization.git)
 
