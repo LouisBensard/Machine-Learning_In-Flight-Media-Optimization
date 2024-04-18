@@ -80,8 +80,8 @@ The analysis led to the development of a media recommendation system that accura
 
 ## Code & Presentation 👨‍💻 
 
--Go through the Machine Learning Python code here: [Python Code](/code/PythonForML/)
--Go through the Data Cleaning R code here: [Python Code](/code/RForDataCleaning/)
+-Go through the Machine Learning Python code here: [Python Code](/code/Python_for_ML/)
+-Go through the Data Cleaning R code here: [Python Code](/code/R_for_cleaning/)
 -Go through the presentation results here: [In-Flight Media Content Optimization Slides](/Final_slides.pptx)
 
 ## Contact 📬
