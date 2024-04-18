@@ -1,4 +1,4 @@
-# Media Content Optimization for In-Flight Entertainment 🛫📊
+# Media Optimization for In-Flight Entertainment 🛫📊
 
 ## Overview 🌎 
 This repository hosts our project on optimizing in-flight media content, aimed at enhancing passenger satisfaction while minimizing content costs. Developed in collaboration with Panasonic Aviation Corporation and Black Swan Data, this project utilizes advanced statistical models to predict and optimize media selection on flights.
