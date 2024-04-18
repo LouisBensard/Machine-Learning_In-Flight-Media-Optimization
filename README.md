@@ -63,7 +63,7 @@ Our project utilized advanced data analytics techniques, including Generalized L
 - **Recommendation System Efficiency**: The media load recommendation system demonstrated an ability to significantly reduce the number of low-performing media titles aboard, thereby cutting down on unnecessary costs without compromising the quality of in-flight entertainment.
 - **Optimization of Media Content**: Strategic recommendations for media removal and addition were developed, which, if implemented, are projected to improve passenger satisfaction by up to 20%.
 
-[<img src="/images/Results_Overview.png" alt="Results Overview" width="70%">](#
+[<img src="/images/Results_Overview.png" alt="Results Overview" width="70%">](#)
 
 ### Detailed Results
 - **Proportion of Views Predicted**: Our model effectively predicted with a 75% accuracy the proportion of views for new media titles, facilitating proactive adjustments to the media catalog.
