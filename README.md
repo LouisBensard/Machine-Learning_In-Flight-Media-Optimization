@@ -7,8 +7,6 @@ Read our detailed paper outlining the research and results here: [In-Flight Medi
 
 [<img src="/images/Page1_Paper.png" alt="Page 1 Paper" width="30%">](#)
 
-Go through the presentation results here: [In-Flight Media Content Optimization Slides](/Final_slides.pptx)
-
 ## Table of Contents 📑
 - [Project Introduction](#project-introduction-)
 - [Data Collection and Processing](#data-collection-and-processing-)
@@ -17,6 +15,7 @@ Go through the presentation results here: [In-Flight Media Content Optimization 
 - [Future Work](#future-work-)
 - [Team](#team)
 - [Contact](#contact-)
+- [Code & Final Thoughts](#code-final-thoughts-)
 
 ## Project Introduction 📖
 Our goal was to provide airlines with actionable recommendations for their in-flight entertainment offerings, predicting which media items are preferred by passengers and suggesting optimal changes to the media load. This includes both recommendations for media to remove (Recommendation I) and suggestions for new media to add (Recommendation II).
@@ -59,6 +58,8 @@ The analysis led to the development of a media recommendation system that accura
 - A minority of media titles are watched by a majority of passengers, aligning with Pareto's Principle.
 - Strategic recommendations are provided to manage media content effectively, balancing cost and satisfaction.
 
+[<img src="/images/Results_Overview.png" alt="Results Overview" width="70%">](#)
+
 [<img src="/images/Result1_Scenario1.png" alt="Prediction vs Baseline" width="70%">](#)
 
 [<img src="/images/Result2-3_Scenario1.png" alt="In-Flight Media Selection" width="70%">](#)
@@ -76,6 +77,12 @@ The analysis led to the development of a media recommendation system that accura
 - WanYi Dai
 - Ping Zhao
 - Nuno Malta
+
+## Code & Presentation 👨‍💻 
+
+-Go through the Machine Learning Python code here: [Python Code](/code/PythonForML/)
+-Go through the Data Cleaning R code here: [Python Code](/code/RForDataCleaning/)
+-Go through the presentation results here: [In-Flight Media Content Optimization Slides](/Final_slides.pptx)
 
 ## Contact 📬
 For more information on this project, please reach out at [louisbenss@gmail.com](mailto:louisbenss@gmail.com).
