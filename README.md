@@ -65,9 +65,6 @@ The analysis led to the development of a media recommendation system that accura
 ## Contact 📬
 For more information on this project, please reach out at [Your Email](mailto:louisbenss@gmail.com).
 
-Project Link: [https://github.com/yourusername/repositoryname](https://github.com/yourusername/repositoryname)
+Project Link: [https://github.com/LouisBensard/ML-Project01_InFlight-Media-Optimization.git](\https://github.com/LouisBensard/ML-Project01_InFlight-Media-Optimization.git)
 
 ---
-
-Feel free to explore our project and contribute to enhancing the in-flight entertainment experience. We welcome feedback and collaboration to drive further innovation in this space.
-
