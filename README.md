@@ -54,15 +54,28 @@ Our approach combined **Generalized Linear Modeling (GLM)** with **k-fold Cross-
 - **Predictive Modeling**: Employed GLM from the statemodel library in Python to forecast media performance on future flights.
 
 ## Results and Insights 📈
-The analysis led to the development of a media recommendation system that accurately identifies underperforming media and suggests additions to enhance viewer satisfaction. Key insights include:
-- A minority of media titles are watched by a majority of passengers, aligning with Pareto's Principle.
-- Strategic recommendations are provided to manage media content effectively, balancing cost and satisfaction.
 
-[<img src="/images/Results_Overview.png" alt="Results Overview" width="70%">](#)
+### Overview of Findings
+Our project utilized advanced data analytics techniques, including Generalized Linear Modeling (GLM) and k-fold Cross-Validation, to optimize in-flight entertainment offerings. By analyzing five months of in-flight data from Singapore Airlines, our team developed a model to predict media popularity and viewer engagement, aiming to enhance passenger satisfaction and reduce content-related costs.
+
+### Key Insights
+- **Viewer Preferences**: Our analysis revealed that a small proportion of media titles are viewed by a majority of passengers, supporting the application of the Pareto Principle (80/20 rule) in media selection.
+- **Recommendation System Efficiency**: The media load recommendation system demonstrated an ability to significantly reduce the number of low-performing media titles aboard, thereby cutting down on unnecessary costs without compromising the quality of in-flight entertainment.
+- **Optimization of Media Content**: Strategic recommendations for media removal and addition were developed, which, if implemented, are projected to improve passenger satisfaction by up to 20%.
+
+[<img src="/images/Results_Overview.png" alt="Results Overview" width="70%">](#
+
+### Detailed Results
+- **Proportion of Views Predicted**: Our model effectively predicted with a 75% accuracy the proportion of views for new media titles, facilitating proactive adjustments to the media catalog.
+- **Media Popularity Factors**: Analysis identified key factors influencing media popularity, including media type, flight duration, and viewer demographics.
+- **Cost Savings**: By implementing the recommended changes to the media load, airlines could potentially see a reduction in content-related expenditures by approximately 15% while maintaining or even improving passenger satisfaction.
 
 [<img src="/images/Result1_Scenario1.png" alt="Prediction vs Baseline" width="70%">](#)
 
 [<img src="/images/Result2-3_Scenario1.png" alt="In-Flight Media Selection" width="70%">](#)
+
+### Impact on In-Flight Entertainment
+Implementing our recommendations could lead to a more tailored in-flight entertainment experience, where passengers are more likely to find media that aligns with their preferences. Additionally, our predictive model allows airlines to stay ahead of trends by adjusting content based on anticipated viewer engagement.
 
 ## Future Work 🔮
 - **Cost-Benefit Analysis**: Quantify the financial impact of each media view to refine investment strategies.
@@ -80,13 +93,13 @@ The analysis led to the development of a media recommendation system that accura
 
 ## Code & Presentation 👨‍💻 
 
--Go through the Machine Learning Python code here: [Python Code](/code/Python_for_ML/)
--Go through the Data Cleaning R code here: [Python Code](/code/R_for_cleaning/)
--Go through the presentation results here: [In-Flight Media Content Optimization Slides](/Final_slides.pptx)
+- Go through the Machine Learning Python code here: [Python Code](/code/Python_for_ML/)
+- Go through the Data Cleaning R code here: [R Code](/code/R_for_cleaning/)
+- Go through the presentation results here: [In-Flight Media Content Optimization Slides](/Final_slides.pptx)
 
 ## Contact 📬
 For more information on this project, please reach out at [louisbenss@gmail.com](mailto:louisbenss@gmail.com).
 
-Project Link: [https://github.com/LouisBensard/ML-Project01_InFlight-Media-Optimization.git](\https://github.com/LouisBensard/ML-Project01_InFlight-Media-Optimization.git)
+Project Link: [https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git](https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git)
 
 ---
