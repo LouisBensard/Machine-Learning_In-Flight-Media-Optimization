@@ -17,6 +17,8 @@ Our goal was to provide airlines with actionable recommendations for their in-fl
 
 [![Overview of Media Optimization](/images/World_Map.png)](#)
 
+<img src="/images/World_Map.png" alt="Overview of Media Optimization" width="400" height="250">
+
 ## Data Collection and Processing 📊
 We analyzed five months of historical flight data from Singapore Airlines, focusing on various aspects such as media usage and flight details. The data was thoroughly cleansed and prepared for analysis, involving steps like dimension reduction, data manipulation, and missing data imputation.
 
