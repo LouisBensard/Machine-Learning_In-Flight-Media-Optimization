@@ -93,8 +93,8 @@ Implementing our recommendations could lead to a more tailored in-flight enterta
 
 ## Code & Presentation 👨‍💻 
 
-- Go through the Machine Learning Python code here: [Python Code](/code/Python_for_ML/)
-- Go through the Data Cleaning R code here: [R Code](/code/R_for_cleaning/)
+- Go through the Machine Learning Python code here: [Python Code](/Code/Python_for_ML/)
+- Go through the Data Cleaning R code here: [R Code](/Code/R_for_cleaning/)
 - Go through the presentation results here: [In-Flight Media Content Optimization Slides](/Final_slides.pptx)
 
 ## Contact 📬
