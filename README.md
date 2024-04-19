@@ -101,5 +101,3 @@ Implementing our recommendations could lead to a more tailored in-flight enterta
 For more information on this project, please reach out at [louisbenss@gmail.com](mailto:louisbenss@gmail.com).
 
 Project Link: [https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git](https://github.com/LouisBensard/ML-Project01_In-Flight-Media-Optimization.git)
-
----
